@@ -63,6 +63,7 @@ Return percent: ~-0.026
 Balance on the bank account: 1,084,920
 Total Profit: -15079
 Return percent:~ -0.0137
+
 Well, that was not a good strategy, but it provided to us some insights. First maybe we can play with the trend, for example to change the direction, to buy when it goes down for 5 days and sell goes up for 6 days?
 2010-2023:
 Balance on the bank account at the end of 13 years: 2,300,160 when
@@ -77,7 +78,7 @@ Balance on the bank account: 1,235,846
 Total Profit: 135,846
 Return percent:~ 0.123
 
-Well, the modified function performs much better. More than that, in my opinion, this strategy is less suitable for stable market, like from 2010 to 2019, but it performs better in the unstable market, where there is a lot of fluctuations of the price in the market. So my advice is to change between strategies according to the stability in the market.
+Well, the modified function performs much better. More than that, in our opinion, this strategy is less suitable for stable market, like from 2010 to 2019, but it performs better in the unstable market, where there is a lot of fluctuations of the price in the market. So our advice is to change between strategies according to the stability in the market.
 
 ![image](https://user-images.githubusercontent.com/53173112/237058701-9b61767c-b094-404c-83d2-2f99e0ea063c.png)
 ![image](https://user-images.githubusercontent.com/53173112/237058741-3ed42ff0-cfd5-4873-aeeb-41fcaf288fe5.png)
