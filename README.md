@@ -1,6 +1,6 @@
 # Trading_Strategies
 
-![image](https://user-images.githubusercontent.com/53173112/237058091-9c0b02e6-d64a-4e7f-8336-b649b6090952.png)
+![image](https://user-images.githubusercontent.com/53173112/237059289-2537f219-6973-43ab-91bf-9d17a8d2e596.png)
 
 # MACD with rebalancing between different sectors each year
 My irst strategy was to use Moving Average Convergence Divergence (MACD) and rebalance my investing according to the success in the previous year for the next year.
