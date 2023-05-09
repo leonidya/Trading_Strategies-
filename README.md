@@ -58,7 +58,7 @@ Return percent:~0.086
 2019-2023:
 Balance on the bank account at the end of 4 years and 3 months is : 1,071,093
 Total Profit: -28906
-Return percent: ~-0.026
+Return percent: ~ -0.026
 2022-2023:
 Balance on the bank account: 1,084,920
 Total Profit: -15079
@@ -72,7 +72,7 @@ Return percent:~ 1.09
 2019-2023:
 Balance on the bank account at the end of 4 years and 3 months is : 1,334,104
 Total Profit: 234,104
-Return percent: ~0.21
+Return percent: ~ 0.21
 2022-2023:
 Balance on the bank account: 1,235,846
 Total Profit: 135,846
@@ -96,7 +96,7 @@ Return percent:~ 1.818
 2019-2023:
 Balance on the bank account at the end of 4 years and 3 months is : 1,435,098
 Total Profit: 335,098
-Return percent: ~0.3046
+Return percent: ~ 0.3046
 2022-2023:
 Balance on the bank account: 1,125,033
 Total Profit: 25,033
