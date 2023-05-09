@@ -54,7 +54,7 @@ The trading strategy buys a stock if its price has gone up for five consecutive 
 2010-2023:
 Balance on the bank account at the end of 13 years: 1,195, 182 when
 Total Profit: 95,182
-Return percent:~0.086
+Return percent:~ 0.086
 2019-2023:
 Balance on the bank account at the end of 4 years and 3 months is : 1,071,093
 Total Profit: -28906
