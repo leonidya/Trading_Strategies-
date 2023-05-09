@@ -78,13 +78,13 @@ Total Profit: 135,846
 Return percent:~ 0.123
 Well, the modified function performs much better. More than that, in my opinion, this strategy is less suitable for stable market, like from 2010 to 2019, but it performs better in the unstable market, where there is a lot of fluctuations of the price in the market. So my advice is to change between strategies according to the stability in the market.
 
-![image](https://user-images.githubusercontent.com/53173112/237056802-e740fed4-8b00-43e7-a4a2-5fb685f5a0ff.png)
-![image](https://user-images.githubusercontent.com/53173112/237056823-d424e6b2-953e-48e6-b724-57cfd1877dd1.png)
+![image](https://user-images.githubusercontent.com/53173112/237058701-9b61767c-b094-404c-83d2-2f99e0ea063c.png)
+![image](https://user-images.githubusercontent.com/53173112/237058741-3ed42ff0-cfd5-4873-aeeb-41fcaf288fe5.png)
 
 
 # BollingerBands strategy
 
-![image](https://user-images.githubusercontent.com/53173112/237056908-ac85c167-e331-4ebd-aaf6-b27bb28a649b.png)
+![image](https://user-images.githubusercontent.com/53173112/237058789-8f7e426d-07b8-4fb3-a007-6f1485056a37.png)
 
 Ok, if we were invested from the beginning for this strategy, for example 100,000 USD for each sector, then the results will be:
 2010-2023:
@@ -99,8 +99,10 @@ Return percent: ~0.3046
 Balance on the bank account: 1,125,033
 Total Profit: 25,033
 Return percent:~ 0.022
-![image](https://user-images.githubusercontent.com/53173112/237056971-984ade4c-c3df-4895-b013-1e6caae27680.png)
-![image](https://user-images.githubusercontent.com/53173112/237056997-93bbe280-3ceb-4ee8-a51e-94e76b5ef4d5.png)
+
+![image](https://user-images.githubusercontent.com/53173112/237058875-cb9fd9e7-ebfb-4471-b3af-159530b6d36a.png)
+![image](https://user-images.githubusercontent.com/53173112/237058896-1fa67d64-12b3-4479-a2f6-c1983faa8ad9.png)
+
 Not such a good strategy, maybe only for 2019-2023, but it is generally better to invest in S&P500 and leave the investment untouched for a minimum of 10 years. So what we can change? Maybe we can invest only in specific sectors which are more profitable.
 An alternative approach could be to invest only in specific sectors that have proven to be more profitable. For instance, an investor in 2010 could use the BollingerBands strategy on data from 2009 to 2010 to determine the three most profitable sectors. Then, at the start of 2010, the investor can invest only in those sectors using the BollingerBands strategy. In 2011, the investor can pause and reassess the three most profitable sectors from the data of 2009-2010 and reinvest accordingly. The investment sum
 can be allocated based on the profitability of the sectors. For instance, 0.5 of the portfolio can be invested in the most profitable sector, 0.3 in the second most profitable sector, and 0.2 in the third most profitable sector.
@@ -133,6 +135,7 @@ Return percent: ~ 0.005
 In my opinion it’s not the best strategy, but we think we could improve it, there is a lot of things can be done, and there is a lot of way to improve this strategy.
 
 # The strategies of buying stocks in September, after the New Year, and on Christmas are examples of seasonal investing strategies ( buying strategy )
+
 The "September Effect" is a theory that suggests that stock prices tend to decline in September. Some investors believe that this is due to investors selling stocks to pay for back-to-school expenses or that institutional investors rebalance their portfolios in September. As a result, buying stocks after September may be seen as a good opportunity to invest. The "January Effect" is another seasonal strategy where investors buy stocks at the start of the year. It's based on the idea that investors sell stocks in December to realize losses for tax purposes and then buy them back in January, leading to a temporary increase in stock prices. Buying stocks around Christmas is also a seasonal strategy. Historically, stock prices tend to rise during the week between Christmas and New Year's Day. Some investors attribute this to optimism about the upcoming year and holiday bonuses being invested in the stock market.
 2010-2023:
 Balance on the bank account at the end of 13 years: 1,429,570 when
@@ -146,8 +149,9 @@ Return percent: ~ 0.02
 Balance on the bank account 1,083,474
 Total Profit: -16,525
 Return percent: ~ -0.015
-![image](https://user-images.githubusercontent.com/53173112/237057321-1becd0dc-a302-48f4-bd50-bd336874ce7f.png)
-![image](https://user-images.githubusercontent.com/53173112/237057341-adfbeb1a-8ce3-4954-bdf3-5d27da717bad.png)
+
+![image](https://user-images.githubusercontent.com/53173112/237058982-ef263d91-ea01-4b8c-9e9a-5895483387b6.png)
+![image](https://user-images.githubusercontent.com/53173112/237059017-87c3c1e7-5736-4684-9eaa-b4356ff92b69.png)
 
 
 # INFLATION STRATEGY
@@ -182,8 +186,9 @@ Return percent: ~ 0.677
 Balance on the bank account 1,166,338.18
 Total Profit: 66,338
 Return percent: ~ 0.06
-![image](https://user-images.githubusercontent.com/53173112/237057445-8e0cb6a2-09c9-454c-9135-f259f15367a8.png)
-![image](https://user-images.githubusercontent.com/53173112/237057465-b51783d2-5b5c-46e3-9ab3-54436f814030.png)
+
+![image](https://user-images.githubusercontent.com/53173112/237059109-fd4fc919-77dc-48a7-92d9-0056ce809cd4.png)
+![image](https://user-images.githubusercontent.com/53173112/237059137-db78b15e-2643-4a0e-8c0e-02f8d85c5e23.png)
 
 # Summary – Best strategy
 ![image](https://user-images.githubusercontent.com/53173112/237057541-82e2f652-bda3-48fd-91f0-2db2fbc20aa1.png)
