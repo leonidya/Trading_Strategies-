@@ -76,6 +76,7 @@ Return percent: ~0.21
 Balance on the bank account: 1,235,846
 Total Profit: 135,846
 Return percent:~ 0.123
+
 Well, the modified function performs much better. More than that, in my opinion, this strategy is less suitable for stable market, like from 2010 to 2019, but it performs better in the unstable market, where there is a lot of fluctuations of the price in the market. So my advice is to change between strategies according to the stability in the market.
 
 ![image](https://user-images.githubusercontent.com/53173112/237058701-9b61767c-b094-404c-83d2-2f99e0ea063c.png)
@@ -118,6 +119,7 @@ Return percent: ~ 0.007
 Balance on the bank account 840,598
 Total Profit: -159,401
 Return percent:~ -0.16
+
 Well, it looks like for this strategy each year to reinvest is not the best thing, and comparing to the previous results, it’s better to put the founds 1100,000 from the start in different sectors, in each sector 100,000, and we will get better performance without changing my investment.
 Another approach to consider is changing the investment strategy on a monthly basis. As an investor, one could assess the performance of the last 12 months and invest only in the top three performing sectors with a weight of 0.5, 0.3, and 0.2 accordingly, each month.
 2010-2023:
@@ -132,6 +134,7 @@ Return percent: ~ 0.02
 Balance on the bank account 1,005,381
 Total Profit: 5,381
 Return percent: ~ 0.005
+
 In my opinion it’s not the best strategy, but we think we could improve it, there is a lot of things can be done, and there is a lot of way to improve this strategy.
 
 # The strategies of buying stocks in September, after the New Year, and on Christmas are examples of seasonal investing strategies ( buying strategy )
