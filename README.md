@@ -42,8 +42,9 @@ Return percent: ~0.4
 Balance on the bank account:1146531
 Total Profit: 46531
 Return percent:~0.04
-![image](https://user-images.githubusercontent.com/53173112/237056576-1bee44aa-c0d2-411f-bb0e-39b94eaaa829.png)
-![image](https://user-images.githubusercontent.com/53173112/237056593-f3e53ae8-a8e0-4b0f-bc42-3f96a8d3371e.png)
+
+![image](https://user-images.githubusercontent.com/53173112/237058249-bb6f73fc-4f03-459c-8d98-037664ff7c4b.png)
+![image](https://user-images.githubusercontent.com/53173112/237058320-8bc0b3a5-2814-432b-af1f-d9cb7cde6cb2.png)
 
 # Opinion:
 Assuming that you invested $100,000 in each of the 11 ETFs listed at the beginning of 2010 and that all dividends were reinvested without using any strategy I would earn more money just investing the equal amount and not changing anything. So, even I have a profit it’s doesn’t mean that it’s a good strategy. More other, this is a gross profit – each trade also has a cost (trading fee), taxes, Inflation during the investment period can also reduce the actual profit earned. Maybe if use MACD with long term investment strategy, and various different factors (for example make changes according to the political map or stability in the market, in my opinion it could improve the results). We look at the profit not in the form of what We earned but what We could have earn. Ultimately, it is important to not solely focus on the profit earned but also consider the potential profit that could have been earned with a better investment strategy.
