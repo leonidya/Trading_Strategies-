@@ -9,38 +9,59 @@ Rebalance – We created a function which calculates the new investment amounts 
 
 # Example:
 Let's say we have a total balance of $100,000 and we have invested it in three different sectors:
+
 • Sector A: $30,000
 • Sector B: $50,000
 • Sector C: $20,000
+
 Now let's assume that at the end of the previous year, each sector had the following profit/loss values:
+
 • Sector A: $10,000 profit
 • Sector B: $5,000 loss
 • Sector C: $15,000 profit
+
 To calculate the new investment amounts for each sector:
+
 Initial investment amount = $100,000
+
 Total profit/loss = $10,000 - $5,000 + $15,000 = $20,000
+
 Then, we calculate the proportional profit/loss for each sector by dividing each sector's profit/loss from the previous year by the total profit/loss:
+
 • Sector A: $10,000 / $20,000 = 0.5 or 50%
 • Sector B: -$5,000 / $20,000 = -0.25 or -25%
 • Sector C: $15,000 / $20,000 = 0.75 or 75%
 Finally, we calculate the new investment amounts for each sector by multiplying the proportional profit/loss values by the initial investment amount:
+
 • Sector A: 0.5 * $100,000 = $50,000
 • Sector B: -0.25 * $100,000 = -$25,000 (loss, so negative value)
 • Sector C: 0.75 * $100,000 = $75,000
+
 The result of this function is a dictionary: {'Sector A': $50,000, 'Sector B': -$25,000 mean 0, 'Sector C': $75,000}
 
 # Results of this strategy:
+
 2010-2023:
 Balance on the bank account at the end of 13 years: 1,759,974 when
+
 Total Profit: 659,974 (The total profit is calculated as the difference between the final bank account balance and the initial investment of $1,100,000.) The return percentage is calculated as the total profit divided by the initial investment, which is $1,100,00 which is approximately 60%.
+
 Return percent:~0.6
+
 2019-2023:
+
 Balance on the bank account at the end of 4 years and 3 months is :1534973
+
 Total Profit:434973
+
 Return percent: ~0.4
+
 2022-2023:
+
 Balance on the bank account:1146531
+
 Total Profit: 46531
+
 Return percent:~0.04
 
 ![image](https://user-images.githubusercontent.com/53173112/237058249-bb6f73fc-4f03-459c-8d98-037664ff7c4b.png)
